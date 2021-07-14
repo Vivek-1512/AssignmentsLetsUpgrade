@@ -1,0 +1,11 @@
+
+.hello{
+    width: fit-content;
+    padding: 3px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1{
+    padding: 5px;
+    border-radius: 5px;
+}
